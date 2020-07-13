@@ -1,3 +1,3 @@
-module Projects/Go/medods/http-rest-api
+module github.com/newliferedbird/http_rest_api
 
 go 1.14
